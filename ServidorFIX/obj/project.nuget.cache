@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6OD8S/NzMIc=",
+  "success": true,
+  "projectFilePath": "E:\\dev\\ServidorFIX\\ServidorFIX\\ServidorFIX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\quickfixn.core\\1.13.1\\quickfixn.core.1.13.1.nupkg.sha512",
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\quickfixn.fix4.4\\1.13.0\\quickfixn.fix4.4.1.13.0.nupkg.sha512",
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

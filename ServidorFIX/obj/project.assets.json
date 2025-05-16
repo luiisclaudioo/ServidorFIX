@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "QuickFIXn.Core/1.13.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/QuickFix.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/QuickFix.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "QuickFIXn.FIX4.4/1.13.0": {
+        "type": "package",
+        "dependencies": {
+          "QuickFIXn.Core": "1.13.0"
+        },
+        "compile": {
+          "lib/net8.0/QuickFix.FIX44.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/QuickFix.FIX44.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuickFIXn.Core/1.13.1": {
+      "sha512": "s6JZXYo3Qis2ZDud5esU1xKWr0ZkhucCFs7VH0sv923Q3mEzCenQOOs4KQJ0DdGOMVWcOvFmOUnRG5+fykHgIg==",
+      "type": "package",
+      "path": "quickfixn.core/1.13.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "lib/net8.0/QuickFix.dll",
+        "lib/net8.0/QuickFix.xml",
+        "qfn-icon.png",
+        "quickfixn.core.1.13.1.nupkg.sha512",
+        "quickfixn.core.nuspec"
+      ]
+    },
+    "QuickFIXn.FIX4.4/1.13.0": {
+      "sha512": "KDu/uApDluUyt/VXINghbW9+qO/LVrQpd7/QLTPh8rm67iCFi+u4Hoq6qxIjt5VLT68vpOnzY9hLTwF6P/Q+Gw==",
+      "type": "package",
+      "path": "quickfixn.fix4.4/1.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "DataDictionary/FIX44.xml",
+        "LICENSE",
+        "README.md",
+        "lib/net8.0/QuickFix.FIX44.dll",
+        "qfn-icon.png",
+        "quickfixn.fix4.4.1.13.0.nupkg.sha512",
+        "quickfixn.fix4.4.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "QuickFIXn.Core >= 1.13.1",
+      "QuickFIXn.FIX4.4 >= 1.13.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Luis Claudio\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\dev\\ServidorFIX\\ServidorFIX\\ServidorFIX.csproj",
+      "projectName": "ServidorFIX",
+      "projectPath": "E:\\dev\\ServidorFIX\\ServidorFIX\\ServidorFIX.csproj",
+      "packagesPath": "C:\\Users\\Luis Claudio\\.nuget\\packages\\",
+      "outputPath": "E:\\dev\\ServidorFIX\\ServidorFIX\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Luis Claudio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "QuickFIXn.Core": {
+            "target": "Package",
+            "version": "[1.13.1, )"
+          },
+          "QuickFIXn.FIX4.4": {
+            "target": "Package",
+            "version": "[1.13.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+            "version": "[9.0.300, 9.0.300]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+20250516-10:37:04.472 : Created session
+20250516-10:37:20.189 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:52064
+20250516-10:37:20.204 : Received logon
+20250516-10:37:20.209 : Responding to logon request; heartbeat is 30 seconds
+20250516-10:39:57.480 : Message 7 Rejected: Tag specified without a value (Field=55)
+20250516-10:40:04.550 : Sent test request TEST
+20250516-10:41:22.862 : SocketReader Error: Socket exception (127.0.0.1:52064): An existing connection was forcibly closed by the remote host.
+20250516-10:41:22.862 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:52064): An existing connection was forcibly closed by the remote host.
+20250516-10:41:25.498 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 13070706 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:52202
+20250516-10:41:25.498 : Received logon
+20250516-10:41:25.498 : Responding to logon request; heartbeat is 30 seconds
+20250516-11:00:37.082 : Created session
+20250516-11:00:55.294 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:53001
+20250516-11:00:55.303 : Received logon
+20250516-11:00:55.308 : Responding to logon request; heartbeat is 30 seconds
+20250516-11:02:18.296 : SocketReader Error: Socket exception (127.0.0.1:53001): An existing connection was forcibly closed by the remote host.
+20250516-11:02:18.296 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:53001): An existing connection was forcibly closed by the remote host.
+20250516-11:04:20.427 : Created session
+20250516-11:04:31.740 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:53140
+20250516-11:04:31.751 : Received logon
+20250516-11:04:31.759 : Responding to logon request; heartbeat is 30 seconds
+20250516-11:06:42.441 : Created session
+20250516-11:06:50.493 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:53225
+20250516-11:06:50.498 : Received logon
+20250516-11:06:50.503 : Responding to logon request; heartbeat is 30 seconds
+20250516-11:11:21.818 : Created session
+20250516-11:11:26.563 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:53364
+20250516-11:11:26.569 : Received logon
+20250516-11:11:26.577 : Responding to logon request; heartbeat is 30 seconds
+20250516-11:15:37.276 : SocketReader Error: Socket exception (127.0.0.1:53364): An existing connection was forcibly closed by the remote host.
+20250516-11:15:37.277 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:53364): An existing connection was forcibly closed by the remote host.
+20250516-18:43:24.472 : Created session
+20250516-18:43:46.658 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59666
+20250516-18:43:46.669 : Verify failed: MsgSeqNum too low, expecting 40 but received 1
+20250516-18:43:46.669 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 40 but received 1
+20250516-18:44:12.833 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 23324256 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59686
+20250516-18:44:12.834 : Verify failed: MsgSeqNum too low, expecting 40 but received 3
+20250516-18:44:12.834 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 40 but received 3
+20250516-18:47:18.469 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 4718933 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59778
+20250516-18:47:18.470 : Verify failed: MsgSeqNum too low, expecting 40 but received 5
+20250516-18:47:18.470 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 40 but received 5
+20250516-18:47:49.057 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 2011106 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59799
+20250516-18:47:49.057 : Verify failed: MsgSeqNum too low, expecting 40 but received 8
+20250516-18:47:49.057 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 40 but received 8
+20250516-18:48:19.400 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 16640438 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59825
+20250516-18:48:19.400 : Verify failed: MsgSeqNum too low, expecting 40 but received 10
+20250516-18:48:19.400 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 40 but received 10
+20250516-18:48:25.565 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 62954519 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59829
+20250516-18:48:25.565 : Received logon
+20250516-18:48:25.566 : Responding to logon request; heartbeat is 30 seconds
+20250516-18:48:49.664 : Multiple logons/connections for this session are not allowed (127.0.0.1:59837)
+20250516-18:49:19.905 : Multiple logons/connections for this session are not allowed (127.0.0.1:59850)
+20250516-18:49:47.283 : Multiple logons/connections for this session are not allowed (127.0.0.1:59860)
+20250516-18:49:50.162 : Multiple logons/connections for this session are not allowed (127.0.0.1:59863)
+20250516-18:50:23.650 : Created session
+20250516-18:50:47.042 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 36610825 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59886
+20250516-18:50:47.047 : Received logon
+20250516-18:50:47.052 : Responding to logon request; heartbeat is 30 seconds
+20250516-18:50:47.052 : MsgSeqNum too high, expecting 41 but received 46
+20250516-18:50:47.053 : Sent ResendRequest FROM: 41 TO: 0
+20250516-18:51:55.834 : Created session
+20250516-18:52:03.632 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 20974680 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59920
+20250516-18:52:03.637 : Received logon
+20250516-18:52:03.642 : Responding to logon request; heartbeat is 30 seconds
+20250516-18:52:03.642 : MsgSeqNum too high, expecting 41 but received 48
+20250516-18:52:03.643 : Sent ResendRequest FROM: 41 TO: 0
+20250516-18:52:03.652 : Got resend request from 40 to 0
+20250516-18:52:03.653 : Sent SequenceReset TO: 50
+20250516-18:52:03.654 : ResendRequest for messages FROM: 41 TO: 0 has been satisfied.
+20250516-18:52:03.654 : Received SequenceReset FROM: 41 TO: 44
+20250516-18:52:03.665 : Message 44 Rejected: Value is incorrect (out of range) for this tag (Field=54)
+20250516-18:52:03.665 : Received SequenceReset FROM: 45 TO: 50
+20250516-18:52:12.858 : SocketReader Error: Socket exception (127.0.0.1:59920): An existing connection was forcibly closed by the remote host.
+20250516-18:52:12.859 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:59920): An existing connection was forcibly closed by the remote host.
+20250516-18:52:21.483 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59925
+20250516-18:52:21.483 : Received logon
+20250516-18:52:21.483 : Responding to logon request; heartbeat is 30 seconds
+20250516-18:52:27.301 : SocketReader Error: Socket exception (127.0.0.1:59925): An existing connection was forcibly closed by the remote host.
+20250516-18:52:27.301 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:59925): An existing connection was forcibly closed by the remote host.
+20250516-18:52:37.276 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 15510466 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59932
+20250516-18:52:37.276 : Verify failed: MsgSeqNum too low, expecting 51 but received 15
+20250516-18:52:37.276 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 15
+20250516-18:53:07.986 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 47616158 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59963
+20250516-18:53:07.986 : Verify failed: MsgSeqNum too low, expecting 51 but received 18
+20250516-18:53:07.986 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 18
+20250516-19:01:12.878 : Created session
+20250516-19:01:36.817 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 7995840 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60190
+20250516-19:01:36.826 : Verify failed: MsgSeqNum too low, expecting 51 but received 20
+20250516-19:01:36.827 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 20
+20250516-19:06:19.717 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 64912252 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60363
+20250516-19:06:19.717 : Verify failed: MsgSeqNum too low, expecting 51 but received 23
+20250516-19:06:19.717 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 23
+20250516-19:06:36.924 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 19662285 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60396
+20250516-19:06:36.924 : Verify failed: MsgSeqNum too low, expecting 51 but received 25
+20250516-19:06:36.924 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 25
+20250516-19:07:07.160 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 399557 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60406
+20250516-19:07:07.160 : Verify failed: MsgSeqNum too low, expecting 51 but received 27
+20250516-19:07:07.160 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 27
+20250516-19:07:37.430 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 47179427 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60420
+20250516-19:07:37.430 : Verify failed: MsgSeqNum too low, expecting 51 but received 29
+20250516-19:07:37.430 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 29
+20250516-19:08:07.678 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 7909450 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60453
+20250516-19:08:07.678 : Verify failed: MsgSeqNum too low, expecting 51 but received 31
+20250516-19:08:07.678 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 31
+20250516-19:08:37.944 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 35963713 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60462
+20250516-19:08:37.945 : Verify failed: MsgSeqNum too low, expecting 51 but received 33
+20250516-19:08:37.945 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 33
+20250516-19:09:08.246 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 11876127 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60475
+20250516-19:09:08.247 : Verify failed: MsgSeqNum too low, expecting 51 but received 35
+20250516-19:09:08.247 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 35
+20250516-19:11:50.157 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 15341705 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60555
+20250516-19:11:50.158 : Verify failed: MsgSeqNum too low, expecting 51 but received 37
+20250516-19:11:50.158 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 37
+20250516-19:12:19.343 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 63692631 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60576
+20250516-19:12:19.343 : Verify failed: MsgSeqNum too low, expecting 51 but received 39
+20250516-19:12:19.343 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 39
+20250516-19:12:54.963 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 46386091 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60592
+20250516-19:12:54.963 : Verify failed: MsgSeqNum too low, expecting 51 but received 41
+20250516-19:12:54.963 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 41
+20250516-19:13:24.533 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 8486217 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60605
+20250516-19:13:24.533 : Verify failed: MsgSeqNum too low, expecting 51 but received 43
+20250516-19:13:24.534 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 51 but received 43
+20250516-19:35:08.756 : Created session
+20250516-19:39:49.639 : Created session
+20250516-20:05:30.168 : Created session
+20250516-20:06:04.512 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 55198763 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:61973
+20250516-20:06:04.517 : Received logon
+20250516-20:06:04.521 : Responding to logon request; heartbeat is 30 seconds
+20250516-20:06:04.534 : Got resend request from 52 to 0
+20250516-20:06:04.535 : Sent SequenceReset TO: 67
+20250516-20:08:09.694 : Multiple logons/connections for this session are not allowed (127.0.0.1:62059)
+20250516-20:08:13.419 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Timed out waiting for heartbeat
+20250516-20:08:35.284 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 56384377 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62067
+20250516-20:08:35.285 : Received logon
+20250516-20:08:35.285 : Responding to logon request; heartbeat is 30 seconds
+20250516-20:08:35.285 : MsgSeqNum too high, expecting 55 but received 58
+20250516-20:08:35.286 : Sent ResendRequest FROM: 55 TO: 0
+20250516-20:08:35.294 : Got resend request from 68 to 0
+20250516-20:08:35.294 : Sent SequenceReset TO: 71
+20250516-20:08:35.294 : ResendRequest for messages FROM: 55 TO: 0 has been satisfied.
+20250516-20:08:35.294 : Received SequenceReset FROM: 55 TO: 60
+20250516-20:09:05.571 : Got resend request from 70 to 0
+20250516-20:09:05.571 : Sent SequenceReset TO: 72
+20250516-20:10:18.863 : SocketReader Error: Socket exception (127.0.0.1:62067): An existing connection was forcibly closed by the remote host.
+20250516-20:10:18.863 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:62067): An existing connection was forcibly closed by the remote host.
+20250516-20:17:53.738 : Created session
+20250516-20:18:11.751 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62323
+20250516-20:18:11.761 : Verify failed: MsgSeqNum too low, expecting 64 but received 45
+20250516-20:18:11.761 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 64 but received 45
+20250516-20:18:45.771 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 64219123 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62340
+20250516-20:18:45.771 : Verify failed: MsgSeqNum too low, expecting 64 but received 47
+20250516-20:18:45.771 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 64 but received 47
