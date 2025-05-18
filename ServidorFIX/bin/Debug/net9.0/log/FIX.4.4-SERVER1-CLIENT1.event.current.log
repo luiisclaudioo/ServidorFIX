@@ -150,3 +150,217 @@
 20250516-20:18:45.771 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 64219123 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62340
 20250516-20:18:45.771 : Verify failed: MsgSeqNum too low, expecting 64 but received 47
 20250516-20:18:45.771 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 64 but received 47
+20250518-00:06:45.031 : Session FIX.4.4:SERVER1->CLIENT1 already disconnected: Resetting...
+20250518-00:06:45.038 : Session reset: New session
+20250518-00:06:45.039 : Created session
+20250518-00:07:01.638 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:53697
+20250518-00:07:01.644 : Received logon
+20250518-00:07:01.648 : Responding to logon request; heartbeat is 30 seconds
+20250518-00:08:37.034 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20250518-00:08:37.035 : Reject sent for Message: 5 Reason:Unsupported Message Type
+20250518-00:08:48.183 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20250518-00:08:48.183 : Reject sent for Message: 6 Reason:Unsupported Message Type
+20250518-00:08:51.164 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20250518-00:08:51.164 : Reject sent for Message: 7 Reason:Unsupported Message Type
+20250518-00:08:54.041 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20250518-00:08:54.041 : Reject sent for Message: 8 Reason:Unsupported Message Type
+20250518-00:09:03.127 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20250518-00:09:03.127 : Reject sent for Message: 9 Reason:Unsupported Message Type
+20250518-00:09:06.374 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20250518-00:09:06.374 : Reject sent for Message: 10 Reason:Unsupported Message Type
+20250518-00:11:52.317 : Created session
+20250518-00:12:04.194 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:53917
+20250518-00:12:04.199 : Received logon
+20250518-00:12:04.204 : Responding to logon request; heartbeat is 30 seconds
+20250518-00:12:04.204 : MsgSeqNum too high, expecting 11 but received 14
+20250518-00:12:04.205 : Sent ResendRequest FROM: 11 TO: 0
+20250518-00:12:04.214 : ResendRequest for messages FROM: 11 TO: 0 has been satisfied.
+20250518-00:12:07.342 : Unsupported message type: Exception of type 'QuickFix.UnsupportedMessageType' was thrown.
+20250518-00:12:07.342 : Reject sent for Message: 11 Reason:Unsupported Message Type
+20250518-00:12:07.343 : Received SequenceReset FROM: 12 TO: 15
+20250518-00:12:55.951 : Created session
+20250518-00:13:04.914 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:53972
+20250518-00:13:04.920 : Received logon
+20250518-00:13:04.926 : Responding to logon request; heartbeat is 30 seconds
+20250518-00:13:04.926 : MsgSeqNum too high, expecting 15 but received 16
+20250518-00:13:04.927 : Sent ResendRequest FROM: 15 TO: 0
+20250518-00:13:04.936 : ResendRequest for messages FROM: 15 TO: 0 has been satisfied.
+20250518-00:14:51.477 : Created session
+20250518-00:14:56.991 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:54043
+20250518-00:14:57.001 : Verify failed: MsgSeqNum too low, expecting 15 but received 1
+20250518-00:14:57.001 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 15 but received 1
+20250518-00:29:14.874 : Created session
+20250518-00:29:24.687 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 58366981 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:54625
+20250518-00:29:24.697 : Verify failed: MsgSeqNum too low, expecting 15 but received 1
+20250518-00:29:24.697 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 15 but received 1
+20250518-01:04:29.194 : Created session
+20250518-01:06:58.038 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 44615182 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:56082
+20250518-01:06:58.047 : Verify failed: MsgSeqNum too low, expecting 15 but received 3
+20250518-01:06:58.047 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 15 but received 3
+20250518-01:07:21.388 : Session FIX.4.4:SERVER1->CLIENT1 already disconnected: Resetting...
+20250518-01:07:21.391 : Session reset: Reset all sessions from web interface
+20250518-01:07:24.819 : Session FIX.4.4:SERVER1->CLIENT1 already disconnected: Resetting...
+20250518-01:07:24.821 : Session reset: Reset all sessions from web interface
+20250518-01:07:41.149 : Session FIX.4.4:SERVER1->CLIENT1 already disconnected: Resetting...
+20250518-01:07:41.151 : Session reset: Reset all sessions from web interface
+20250518-01:08:20.508 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 2423681 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:56152
+20250518-01:08:20.509 : Received logon
+20250518-01:08:20.510 : Responding to logon request; heartbeat is 30 seconds
+20250518-02:18:18.973 : Created session
+20250518-02:18:26.684 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 56140151 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59111
+20250518-02:18:26.694 : Verify failed: MsgSeqNum too low, expecting 2 but received 1
+20250518-02:18:26.694 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 2 but received 1
+20250518-02:43:57.149 : Created session
+20250518-02:44:22.763 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 15510466 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59905
+20250518-02:44:22.768 : Received logon
+20250518-02:44:22.774 : Responding to logon request; heartbeat is 30 seconds
+20250518-02:44:22.774 : MsgSeqNum too high, expecting 2 but received 3
+20250518-02:44:22.775 : Sent ResendRequest FROM: 2 TO: 0
+20250518-02:44:35.595 : Got resend request from 2 to 0
+20250518-02:44:36.745 : Sent SequenceReset TO: 5
+20250518-02:44:36.746 : ResendRequest for messages FROM: 2 TO: 0 has been satisfied.
+20250518-02:44:37.474 : Received SequenceReset FROM: 2 TO: 5
+20250518-02:46:50.153 : Sent test request TEST
+20250518-03:31:12.615 : Session FIX.4.4:SERVER1->CLIENT1 already disconnected: Resetting...
+20250518-03:31:12.627 : Session reset: New session
+20250518-03:31:12.627 : Created session
+20250518-03:31:21.881 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 56140151 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:61578
+20250518-03:31:21.886 : Received logon
+20250518-03:31:21.891 : Responding to logon request; heartbeat is 30 seconds
+20250518-03:34:56.624 : SocketReader Error: Socket exception (127.0.0.1:61578): An existing connection was forcibly closed by the remote host.
+20250518-03:34:56.624 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:61578): An existing connection was forcibly closed by the remote host.
+20250518-03:36:16.022 : Created session
+20250518-03:36:26.664 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 56140151 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:61782
+20250518-03:36:26.671 : Received logon
+20250518-03:36:26.676 : Responding to logon request; heartbeat is 30 seconds
+20250518-03:40:53.222 : SocketReader Error: Socket exception (127.0.0.1:61782): An existing connection was forcibly closed by the remote host.
+20250518-03:40:53.222 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:61782): An existing connection was forcibly closed by the remote host.
+20250518-03:41:01.399 : Created session
+20250518-03:41:10.576 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 56140151 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62004
+20250518-03:41:10.582 : Received logon
+20250518-03:41:10.589 : Responding to logon request; heartbeat is 30 seconds
+20250518-03:43:01.147 : SocketReader Error: Socket exception (127.0.0.1:62004): An existing connection was forcibly closed by the remote host.
+20250518-03:43:01.147 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:62004): An existing connection was forcibly closed by the remote host.
+20250518-03:48:03.765 : Created session
+20250518-03:48:11.220 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 56140151 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62257
+20250518-03:48:11.230 : Verify failed: MsgSeqNum too low, expecting 24 but received 1
+20250518-03:48:11.230 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 1
+20250518-03:49:11.739 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 63876281 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62305
+20250518-03:49:11.739 : Verify failed: MsgSeqNum too low, expecting 24 but received 3
+20250518-03:49:11.739 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 3
+20250518-03:50:12.255 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 45076579 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62327
+20250518-03:50:12.256 : Verify failed: MsgSeqNum too low, expecting 24 but received 5
+20250518-03:50:12.256 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 5
+20250518-03:51:12.782 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 46355361 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62359
+20250518-03:51:12.782 : Verify failed: MsgSeqNum too low, expecting 24 but received 7
+20250518-03:51:12.782 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 7
+20250518-03:52:13.315 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 46174201 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62399
+20250518-03:52:13.315 : Verify failed: MsgSeqNum too low, expecting 24 but received 9
+20250518-03:52:13.315 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 9
+20250518-03:53:13.705 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 47178698 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62428
+20250518-03:53:13.706 : Verify failed: MsgSeqNum too low, expecting 24 but received 11
+20250518-03:53:13.706 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 11
+20250518-03:53:59.954 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 27180671 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62454
+20250518-03:53:59.955 : Verify failed: MsgSeqNum too low, expecting 24 but received 13
+20250518-03:53:59.955 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 13
+20250518-03:55:00.460 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 47045204 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62495
+20250518-03:55:00.461 : Verify failed: MsgSeqNum too low, expecting 24 but received 15
+20250518-03:55:00.461 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 15
+20250518-03:56:56.715 : Created session
+20250518-03:57:35.662 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 64219123 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62595
+20250518-03:57:35.672 : Verify failed: MsgSeqNum too low, expecting 24 but received 1
+20250518-03:57:35.672 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Verify failed: MsgSeqNum too low, expecting 24 but received 1
+20250518-04:03:49.176 : Created session
+20250518-04:04:22.412 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 64219123 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:62831
+20250518-04:04:22.416 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-04:04:22.418 : Session reset: Reset requested by counterparty
+20250518-04:04:22.420 : Received logon
+20250518-04:04:22.425 : Responding to logon request; heartbeat is 30 seconds
+20250518-04:09:30.886 : Error on Session 'FIX.4.4:SERVER1->CLIENT1': System.IO.IOException: Unable to write data to the transport connection: An established connection was aborted by the software in your host machine..
+ ---> System.Net.Sockets.SocketException (10053): An established connection was aborted by the software in your host machine.
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at QuickFix.SocketReader.Send(String data)
+   at QuickFix.ClientHandlerThread.Send(String data)
+   at QuickFix.Session.Send(String message)
+   at QuickFix.Session.SendRaw(Message message, UInt64 seqNum)
+   at QuickFix.Session.GenerateTestRequest(String id)
+   at QuickFix.Session.Next()
+   at QuickFix.Session.Next(MessageBuilder msgBuilder)
+   at QuickFix.Session.NextMessage(String msgStr)
+   at QuickFix.Session.Next(String msgStr)
+   at QuickFix.SocketReader.OnMessageFound(String msg)
+20250518-04:09:30.888 : SocketReader Error: Socket exception (127.0.0.1:62831): An established connection was aborted by the software in your host machine.
+20250518-04:09:30.888 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:62831): An established connection was aborted by the software in your host machine.
+20250518-04:10:46.918 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 5837890 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:63063
+20250518-04:10:46.918 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-04:10:46.920 : Session reset: Reset requested by counterparty
+20250518-04:10:46.920 : Received logon
+20250518-04:10:46.920 : Responding to logon request; heartbeat is 30 seconds
+20250518-04:10:55.443 : SocketReader Error: Socket exception (127.0.0.1:63063): An existing connection was forcibly closed by the remote host.
+20250518-04:10:55.443 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:63063): An existing connection was forcibly closed by the remote host.
+20250518-04:19:40.051 : Created session
+20250518-04:19:49.897 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 56140151 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:63401
+20250518-04:19:49.901 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-04:19:49.903 : Session reset: Reset requested by counterparty
+20250518-04:19:49.905 : Received logon
+20250518-04:19:49.910 : Responding to logon request; heartbeat is 30 seconds
+20250518-04:23:52.815 : SocketReader Error: Socket exception (127.0.0.1:63401): An existing connection was forcibly closed by the remote host.
+20250518-04:23:52.815 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:63401): An existing connection was forcibly closed by the remote host.
+20250518-06:53:00.848 : Created session
+20250518-06:53:16.850 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 60588784 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:54063
+20250518-06:53:16.855 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-06:53:16.857 : Session reset: Reset requested by counterparty
+20250518-06:53:16.858 : Received logon
+20250518-06:53:16.863 : Responding to logon request; heartbeat is 30 seconds
+20250518-06:55:11.635 : Created session
+20250518-06:55:27.098 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 44879274 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:54172
+20250518-06:55:27.102 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-06:55:27.105 : Session reset: Reset requested by counterparty
+20250518-06:55:27.106 : Received logon
+20250518-06:55:27.112 : Responding to logon request; heartbeat is 30 seconds
+20250518-07:05:05.500 : SocketReader Error: Socket exception (127.0.0.1:54172): An existing connection was forcibly closed by the remote host.
+20250518-07:05:05.500 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:54172): An existing connection was forcibly closed by the remote host.
+20250518-08:21:00.457 : Created session
+20250518-08:21:13.211 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 2843250 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:57746
+20250518-08:21:13.215 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-08:21:13.217 : Session reset: Reset requested by counterparty
+20250518-08:21:13.218 : Received logon
+20250518-08:21:13.223 : Responding to logon request; heartbeat is 30 seconds
+20250518-08:22:15.099 : SocketReader Error: Socket exception (127.0.0.1:57746): An existing connection was forcibly closed by the remote host.
+20250518-08:22:15.099 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:57746): An existing connection was forcibly closed by the remote host.
+20250518-08:35:32.461 : Created session
+20250518-08:35:48.740 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 10560058 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:58268
+20250518-08:35:48.743 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-08:35:48.745 : Session reset: Reset requested by counterparty
+20250518-08:35:48.747 : Received logon
+20250518-08:35:48.752 : Responding to logon request; heartbeat is 30 seconds
+20250518-08:38:03.504 : SocketReader Error: Socket exception (127.0.0.1:58268): An existing connection was forcibly closed by the remote host.
+20250518-08:38:03.504 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:58268): An existing connection was forcibly closed by the remote host.
+20250518-09:03:32.746 : Created session
+20250518-09:03:47.702 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 44879274 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59220
+20250518-09:03:47.707 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-09:03:47.709 : Session reset: Reset requested by counterparty
+20250518-09:03:47.711 : Received logon
+20250518-09:03:47.718 : Responding to logon request; heartbeat is 30 seconds
+20250518-09:21:51.819 : Created session
+20250518-09:22:00.033 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 2843250 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:59863
+20250518-09:22:00.038 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-09:22:00.040 : Session reset: Reset requested by counterparty
+20250518-09:22:00.041 : Received logon
+20250518-09:22:00.046 : Responding to logon request; heartbeat is 30 seconds
+20250518-09:28:07.265 : Created session
+20250518-09:28:16.613 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 2843250 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60076
+20250518-09:28:16.617 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-09:28:16.620 : Session reset: Reset requested by counterparty
+20250518-09:28:16.621 : Received logon
+20250518-09:28:16.625 : Responding to logon request; heartbeat is 30 seconds
+20250518-09:49:04.277 : Created session
+20250518-09:49:53.529 : FIX.4.4:SERVER1->CLIENT1 Socket Reader 31485076 accepting session FIX.4.4:SERVER1->CLIENT1 from 127.0.0.1:60892
+20250518-09:49:53.533 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20250518-09:49:53.535 : Session reset: Reset requested by counterparty
+20250518-09:49:53.537 : Received logon
+20250518-09:49:53.541 : Responding to logon request; heartbeat is 30 seconds
+20250518-09:55:34.835 : SocketReader Error: Socket exception (127.0.0.1:60892): An existing connection was forcibly closed by the remote host.
+20250518-09:55:34.835 : Session FIX.4.4:SERVER1->CLIENT1 disconnecting: Socket exception (127.0.0.1:60892): An existing connection was forcibly closed by the remote host.

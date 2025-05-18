@@ -18,3 +18,7 @@ E:\dev\ServidorFIX\ServidorFIX\obj\Debug\net9.0\ServidorFIX.pdb
 E:\dev\ServidorFIX\ServidorFIX\obj\Debug\net9.0\ServidorFIX.genruntimeconfig.cache
 E:\dev\ServidorFIX\ServidorFIX\obj\Debug\net9.0\ref\ServidorFIX.dll
 E:\dev\ServidorFIX\ServidorFIX\bin\Debug\net9.0\FIX44.xml
+E:\dev\ServidorFIX\ServidorFIX\obj\Debug\net9.0\ServidorFIX.sourcelink.json
+E:\dev\ServidorFIX\ServidorFIX\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dev\ServidorFIX\ServidorFIX\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+E:\dev\ServidorFIX\ServidorFIX\bin\Debug\net9.0\StackExchange.Redis.dll

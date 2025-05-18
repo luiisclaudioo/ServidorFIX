@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="QuickFIXn.Core" Version="1.13.1" />
     <PackageReference Include="QuickFIXn.FIX4.4" Version="1.13.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.8.37" />
   </ItemGroup>
 
   <ItemGroup>

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\dev\\ServidorFIX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9018B13A-F4DE-40AE-936C-E8836279474F}|ServidorFIX\\ServidorFIX.csproj|e:\\dev\\servidorfix\\servidorfix\\redisexposurestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9018B13A-F4DE-40AE-936C-E8836279474F}|ServidorFIX\\ServidorFIX.csproj|solutionrelative:servidorfix\\redisexposurestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9018B13A-F4DE-40AE-936C-E8836279474F}|ServidorFIX\\ServidorFIX.csproj|e:\\dev\\servidorfix\\servidorfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9018B13A-F4DE-40AE-936C-E8836279474F}|ServidorFIX\\ServidorFIX.csproj|solutionrelative:servidorfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9018B13A-F4DE-40AE-936C-E8836279474F}|ServidorFIX\\ServidorFIX.csproj|e:\\dev\\servidorfix\\servidorfix\\servidorfix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9018B13A-F4DE-40AE-936C-E8836279474F}|ServidorFIX\\ServidorFIX.csproj|solutionrelative:servidorfix\\servidorfix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9018B13A-F4DE-40AE-936C-E8836279474F}|ServidorFIX\\ServidorFIX.csproj|e:\\dev\\servidorfix\\servidorfix\\fix.cfg||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -22,26 +30,52 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ServidorFIX",
+              "DocumentMoniker": "E:\\dev\\ServidorFIX\\ServidorFIX\\ServidorFIX.csproj",
+              "RelativeDocumentMoniker": "ServidorFIX\\ServidorFIX.csproj",
+              "ToolTip": "E:\\dev\\ServidorFIX\\ServidorFIX\\ServidorFIX.csproj",
+              "RelativeToolTip": "ServidorFIX\\ServidorFIX.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T06:25:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisExposureStore.cs",
+              "DocumentMoniker": "E:\\dev\\ServidorFIX\\ServidorFIX\\RedisExposureStore.cs",
+              "RelativeDocumentMoniker": "ServidorFIX\\RedisExposureStore.cs",
+              "ToolTip": "E:\\dev\\ServidorFIX\\ServidorFIX\\RedisExposureStore.cs",
+              "RelativeToolTip": "ServidorFIX\\RedisExposureStore.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:00:41.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "fix.cfg",
               "DocumentMoniker": "E:\\dev\\ServidorFIX\\ServidorFIX\\fix.cfg",
               "RelativeDocumentMoniker": "ServidorFIX\\fix.cfg",
               "ToolTip": "E:\\dev\\ServidorFIX\\ServidorFIX\\fix.cfg",
               "RelativeToolTip": "ServidorFIX\\fix.cfg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-16T10:19:36.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\dev\\ServidorFIX\\ServidorFIX\\Program.cs",
               "RelativeDocumentMoniker": "ServidorFIX\\Program.cs",
               "ToolTip": "E:\\dev\\ServidorFIX\\ServidorFIX\\Program.cs",
               "RelativeToolTip": "ServidorFIX\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T10:08:04.768Z",
               "EditorCaption": ""
